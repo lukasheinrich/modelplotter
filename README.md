@@ -25,4 +25,4 @@ One can fit a workspace stored in a ROOT file using the `fit` subcommand, and wr
      
 For any given YAML file with a dictionary specifying the model values the model can be fit via
 
-    plot.py fit ~/some/path/to/file.root combined channel1 x fitresult.yml
+    plot.py plot_channel ~/some/path/to/file.root combined channel1 x fitresult.yml
