@@ -10,10 +10,10 @@ extracted stuff from https://github.com/lukasheinrich/modelinspector.cern.ch to 
 
 ### 
 
-   usage:
+    usage:
 
-   Usage: plot.py plot_channel [OPTIONS] ROOTFILE WORKSPACE CHANNEL OBSERVABLE
+    Usage: plot.py plot_channel [OPTIONS] ROOTFILE WORKSPACE CHANNEL OBSERVABLE
                             PARPOINTFILE
 
-   Error: Missing argument "rootfile".
+    Error: Missing argument "rootfile".
 
